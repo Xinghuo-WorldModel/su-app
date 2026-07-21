@@ -4,8 +4,11 @@
 
 录入心仪对象的信息（文字+聊天截图），AI 基于这些先验知识提供个性化的关系建议。全程本地存储，隐私安全。
 
+[![Live Demo](https://img.shields.io/badge/在线体验-Su-ff6b8a.svg)](https://transcendent-begonia-941245.netlify.app/)
 [![Web](https://img.shields.io/badge/Web-React%2018-61dafb.svg)](web/)
 [![AI](https://img.shields.io/badge/AI-Kimi%20(Moonshot)-orange.svg)](https://platform.moonshot.cn)
+
+👉 **在线体验：https://transcendent-begonia-941245.netlify.app/**
 
 ---
 
@@ -94,3 +97,12 @@ API Key 由用户在「设置」页面自行填入，存储在浏览器本地。
 ## 📄 License
 
 MIT — 随便用，开心就好。
+
+---
+
+## 🔗 相关项目
+
+| 项目 | 说明 | 链接 |
+|------|------|------|
+| Su | AI 恋爱顾问 | [在线体验](https://transcendent-begonia-941245.netlify.app/) |
+| 小酥 AI 日记 | 和 AI 聊天写日记 | [在线体验](https://xiaosu.netlify.app/chat) · [源码](https://github.com/Xinghuo-WorldModel/xiaosu-ai-journal) |
