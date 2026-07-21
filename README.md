@@ -4,6 +4,12 @@
 
 用户可以录入心仪对象的信息（文字+聊天截图），AI会基于这些先验信息提供个性化的关系建议。
 
+## 截图
+
+| 对话 | 知识库 | TA的档案 |
+| :---: | :---: | :---: |
+| ![对话](screenshots/chat2.png) | ![知识库](screenshots/knowledge.png) | ![档案](screenshots/profile.png) |
+
 ## 功能
 
 - 💬 AI对话 - 基于知识库的个性化恋爱建议，流式输出
