@@ -1,0 +1,8 @@
+{
+  "appId": "com.su.app",
+  "appName": "Su",
+  "webDir": "public",
+  "android": {
+    "allowMixedContent": true
+  }
+}
