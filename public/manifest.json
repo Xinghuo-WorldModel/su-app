@@ -1,0 +1,9 @@
+{
+  "name": "Su",
+  "short_name": "Su",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF5F5",
+  "theme_color": "#FF6B8A",
+  "icons": []
+}

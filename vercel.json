@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/ai/:path*",
+      "destination": "https://api.moonshot.cn/v1/:path*"
+    }
+  ]
+}
